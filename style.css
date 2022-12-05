@@ -1,0 +1,17 @@
+body
+{
+    background: linear-gradient(to left,  cyan, teal, darkslategray);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading
+{
+    float: none;
+    top: 0;
+    width: 100%;
+}
+
+canvas
+{
+
+}
